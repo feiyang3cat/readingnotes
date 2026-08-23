@@ -99,3 +99,28 @@ Dandelion admires the rich farmland and jokes that poets must understand everyth
 > “You know about farming?”
 >
 > “Poets need to know about everything, or our work will suffer. Agriculture feeds and clothes us, protects us from the cold, and makes art and entertainment possible.”
+
+## 3. An Irresistible Nonexistent Thing
+
+### Context
+
+- **Story:** “The Edge of the World”
+- **Speaker:** Geralt
+
+### Passage
+
+> I could never resist the temptation of having a look at something that doesn't exist.
+
+### Why It Works
+
+The sentence is deliberately paradoxical: if the creature does not exist, there should be nothing to see. Geralt uses that contradiction to express curiosity and dry humor.
+
+### Reusable Pattern
+
+> **I could never resist the temptation to + verb.**
+
+- **I could never resist the temptation to investigate a mystery.**
+- **I could never resist the temptation to open a forbidden door.**
+- **I could never resist the temptation to see something that supposedly doesn't exist.**
+
+The original **the temptation of having a look** is correct. In modern English, **the temptation to have a look** is more common.
